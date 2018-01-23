@@ -6,7 +6,7 @@ class CommunicationService {
 			params: {
 				api_key: "lXfqqsnpNmFr6EnSSOY8x8AAhmmRu393",
 				q: searchString,
-				limit: 
+				limit: 400
 			}
 		})
 		.then((response) => {

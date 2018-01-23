@@ -8,6 +8,8 @@ class App extends Component {
   render() {
     return (
       <div className="container-fluid">
+        <div className="background-img">
+        </div>
         < MainPage />
       </div>
     );

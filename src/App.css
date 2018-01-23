@@ -26,3 +26,37 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.container-fluid {
+  text-align: center !important;
+  height: 100%;
+}
+#root {
+  height: 100% !important;
+}
+
+form {
+  width: 100%;
+  text-align: center;
+}
+
+input{
+  width: 100% !important;
+  text-align: center;
+}
+
+span{
+  width: 100% !important;
+  text-align: center !important;
+}
+html{
+  height: 100vh !important;
+}
+
+body{
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+}
